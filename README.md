@@ -27,3 +27,34 @@
 下载：https://wwze.lanzoub.com/iU2IE0my1gih
 
 来源：https://discord.com/channels/971945032552697897/995556191419764838/1072863120671911986
+
+
+
+![image](https://github.com/kevinkong1999/mods/blob/main/IMG_20230214_064019_126.jpg)
+
+![image](https://github.com/kevinkong1999/mods/blob/main/IMG_20230214_064016_673.jpg)
+
+人物：#七七
+
+作者：#Lyra_x3
+
+说明：这个 Mod 的特点是七七有可爱的猫耳朵和多变的变体
+
+ Changeable things include 可更改的内容包括
+
+  ✧ Shoes ✧ 鞋子
+
+  ✧ Socks ✧ 袜子
+
+  ✧ Necklace ✧ 项链
+
+  ✧ Cape ✧ 斗篷
+
+有 16 种变体，可通过按Ctrl + Q 前进 Ctrl + Shift + Q 向后移动
+
+快捷键在 merged.ini 文件中是可变的
+
+下载：https://wwze.lanzoub.com/ieHpm0nefn9a
+
+来源：https://gamebanana.com/mods/427273
+
